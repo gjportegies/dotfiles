@@ -56,7 +56,6 @@ cask 'phpstorm'
 cask 'ray'
 cask 'slack'
 cask 'tinkerwell'
-cask 'transmit'
 cask 'visual-studio-code'
 cask 'whatsapp'
 
