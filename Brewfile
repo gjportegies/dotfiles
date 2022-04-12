@@ -1,8 +1,8 @@
 # Taps
+tap 'homebrew/bundle'
 tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
-tap 'homebrew/bundle'
 tap 'nicoverbruggen/homebrew-cask'
 
 # Binaries
@@ -43,6 +43,7 @@ brew 'yarn'
 
 # Apps
 cask '1password'
+cask 'docker'
 cask 'firefox'
 cask 'github'
 cask 'google-chrome'
@@ -53,8 +54,6 @@ cask 'phpmon'
 cask 'phpstorm'
 cask 'ray'
 cask 'slack'
-cask 'tableplus'
-cask 'termius'
 cask 'tinkerwell'
 cask 'visual-studio-code'
 cask 'whatsapp'
