@@ -39,6 +39,7 @@ brew 'mysql', restart_service: true
 brew 'nginx'
 brew 'node'
 brew 'redis', restart_service: true
+brew 'wp-cli'
 brew 'yarn'
 
 # Apps

@@ -6,6 +6,7 @@ alias phpstorm='open -a /Applications/PhpStorm.app "`pwd`"'
 alias vscode='open -a /Applications/"Visual Studio Code.app" "`pwd`"'
 
 # Directories
+alias downloads="cd $HOME/Downloads"
 alias dotfiles="cd $DOTFILES"
 alias sites="cd $HOME/Sites"
 
