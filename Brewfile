@@ -35,10 +35,10 @@ brew 'php@7.4'
 brew 'composer'
 brew 'imagemagick'
 brew 'meilisearch'
-brew 'mysql'
+brew 'mysql', restart_service: true
 brew 'nginx'
 brew 'node'
-brew 'redis'
+brew 'redis', restart_service: true
 brew 'yarn'
 
 # Apps
