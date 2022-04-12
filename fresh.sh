@@ -33,7 +33,7 @@ mysql -u root -e "ALTER USER root@localhost IDENTIFIED WITH mysql_native_passwor
 pecl install imagick redis
 
 # Install global Composer packages
-/usr/local/bin/composer global require laravel/installer laravel/valet spatie/global-ray tightenco/takeout
+composer global require laravel/installer laravel/valet spatie/global-ray tightenco/takeout
 
 # Install Laravel Valet
 $HOME/.composer/vendor/bin/valet install
