@@ -9,6 +9,10 @@ alias vscode='open -a /Applications/"Visual Studio Code.app" "`pwd`"'
 alias downloads="cd $HOME/Downloads"
 alias dotfiles="cd $DOTFILES"
 alias sites="cd $HOME/Sites"
+alias tools="cd $HOME/Tools"
 
 # Laravel
 alias a="php artisan"
+
+# Magento
+alias magerun2="n98-magerun2.phar"
